@@ -59,7 +59,7 @@ A dynamic insight system was implemented using DAX:
 
 ## 📸 Dashboard Preview
 
-
+https://github.com/dnadar881/healthcare-analytics-dashboard/blob/main/Dashboard.PNG
 ---
 
 ## 💬 Business Impact
