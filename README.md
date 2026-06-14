@@ -59,7 +59,6 @@ A dynamic insight system was implemented using DAX:
 
 ## 📸 Dashboard Preview
 
-![Dashboard](images/dashboard.png)
 
 ---
 
